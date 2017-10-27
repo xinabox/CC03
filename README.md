@@ -1,7 +1,6 @@
 # ☒CC03
+<img src="extras/CC03 V0.5.0.JPG" width="35%" height="auto" align="right">
 Core CPU Module based on ATSAMD21G18.
-
-<img src="extras/CC03 V0.5.0.JPG" width="300" align="right">
 
 This module can be purchased on [Xinabox CC](https://xinabox.cc/products/CC03/).
 
